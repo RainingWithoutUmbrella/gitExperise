@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-	printf("helloword");
+	printf("helloword");//1111111111111
 	return 0;
 }
 //王八蛋
